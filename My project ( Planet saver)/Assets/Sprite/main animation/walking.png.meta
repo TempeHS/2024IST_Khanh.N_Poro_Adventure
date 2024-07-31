@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 148ba2366dca70f41bab32426d0389b2
+guid: 6fe3aba91d4f5884882fec126724b732
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -123,70 +123,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: main die_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 120
-        width: 60
-        height: 60
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9d1e12f659a491443933509ec14767d0
-      internalID: -651377669
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: main die_1
-      rect:
-        serializedVersion: 2
-        x: 60
-        y: 120
-        width: 60
-        height: 60
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d30399dfc3155734fb17c8d9e3c314d6
-      internalID: 1602266360
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: main die_2
-      rect:
-        serializedVersion: 2
-        x: 120
-        y: 120
-        width: 60
-        height: 60
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b27594a598ca14149af749de53844719
-      internalID: 1585188398
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: main die_3
+      name: walking_0
       rect:
         serializedVersion: 2
         x: 0
@@ -200,14 +137,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 54c4c81d807138845828cc9887aa1041
-      internalID: 1116334792
+      spriteID: 70d401c3469b1464a84853d89fa28761
+      internalID: -2064441828
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: main die_4
+      name: walking_1
       rect:
         serializedVersion: 2
         x: 60
@@ -221,18 +158,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7e406800d7de88f4c8cab2276fff5f36
-      internalID: 795532780
+      spriteID: 05fabccab7489364aa58a9d352cf6271
+      internalID: -760626140
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: main die_5
+      name: walking_2
       rect:
         serializedVersion: 2
-        x: 120
-        y: 60
+        x: 0
+        y: 0
         width: 60
         height: 60
       alignment: 0
@@ -242,8 +179,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6117a619b3cca1642954023175d3a7d8
-      internalID: -392702848
+      spriteID: 018acf706197e4a419bb663327d64aa1
+      internalID: 799469793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking_3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0224dbe5730df4793cab2ce3a14f8f
+      internalID: 659310410
       vertices: []
       indices: 
       edges: []
@@ -259,12 +217,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      main die_0: -651377669
-      main die_1: 1602266360
-      main die_2: 1585188398
-      main die_3: 1116334792
-      main die_4: 795532780
-      main die_5: -392702848
+      walking_0: -2064441828
+      walking_1: -760626140
+      walking_2: 799469793
+      walking_3: 659310410
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
