@@ -29,6 +29,7 @@ private Vector2 wallJumpingPower = new Vector2(8f, 16f);
 [SerializeField] private TrailRenderer tr;
 [SerializeField] private Transform wallCheck;
 [SerializeField] private LayerMask wallLayer;
+[SerializeField] private Animator anim;
 
 
 private void Update()
