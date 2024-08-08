@@ -1231,6 +1231,7 @@ MonoBehaviour:
   wallLayer:
     serializedVersion: 2
     m_Bits: 128
+  anim: {fileID: 0}
 --- !u!61 &1627119819
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1344,7 +1345,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -1201045861, guid: 89bcc36f7c5cae94aa414dfd9e97bc0c, type: 3}
+  m_Sprite: {fileID: -2064441828, guid: 6fe3aba91d4f5884882fec126724b732, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
