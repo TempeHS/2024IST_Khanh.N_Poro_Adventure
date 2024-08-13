@@ -4,10 +4,10 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour{
 
-private Animator animator;
+public Animator animator;
 
 private float horizontal;
-private float speed = 8f;
+private float speed = 3f;
 private float jumpingPower = 16f;
 private bool isFacingRight = true;
 private bool isWallSliding;
@@ -16,9 +16,9 @@ private float wallSlidingSpeed = 2f;
 
 private bool canDash = true;
 private bool isDashing;
-private float dashingPower = 24f;
+private float dashingPower = 8f;
 private float dashingTime = 0.2f;
-private float dashingCooldown = 1f;
+private float dashingCooldown = 2f;
 
 
 private bool isWallJumping;
@@ -50,13 +50,13 @@ private void Update()
 
     horizontal = Input.GetAxisRaw("Horizontal") * speed;
 
-    anim.SetFloat("speed", Mathf.Abs(horizontal));
+    animator.SetFloat("speed", Mathf.Abs(horizontal));
 
 
     if (Input.GetButtonDown("Jump") && IsGrounded())
     {
         rb.velocity = new Vector2(rb.velocity.x, jumpingPower);
-    }
+    }   
 
 
     if (Input.GetButtonUp("Jump") && rb.velocity.y > 0f)
@@ -79,6 +79,8 @@ private void Update()
     {
         Flip();
     }
+
+    anim.SetBool("isjumping", !IsGrounded());
 }
 
 
