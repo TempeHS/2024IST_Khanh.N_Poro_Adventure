@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 599358fdaee1e6f49b70cbe093261afa
+guid: 6b3b9ac53e666374193d99ffbf1ef7d9
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -123,7 +123,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: slime idle_0
+      name: enemy idle_0
       rect:
         serializedVersion: 2
         x: 0
@@ -137,14 +137,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9ff41152f96b6ae469e33d4ca5578a2a
-      internalID: -883973170
+      spriteID: c568bdc0fcf5df14b994c4a19aa77fa1
+      internalID: 765614789
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: slime idle_1
+      name: enemy idle_1
       rect:
         serializedVersion: 2
         x: 0
@@ -158,8 +158,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 49af73fe1944b854aa9452efa97cdd0a
-      internalID: -35051803
+      spriteID: 924b67a7340e73a488b743bcca2eb668
+      internalID: -1670145806
       vertices: []
       indices: 
       edges: []
@@ -175,8 +175,8 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      slime idle_0: -883973170
-      slime idle_1: -35051803
+      enemy idle_0: 765614789
+      enemy idle_1: -1670145806
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

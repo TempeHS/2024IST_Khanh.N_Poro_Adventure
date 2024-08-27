@@ -13,13 +13,19 @@ public class Health : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.D))
         {
-            Damage(10);
+            // Damage(10);
         }
 
         if (Input.GetKeyDown(KeyCode.H))
         {
-            Heal(10);
+            // Heal(10);
         }
+    }
+
+    public void SetHealth(int maxHealth, int health)
+    {
+        this.MAX_HEALTH = maxHealth;
+        this.health = health;
     }
 
     public void Damage(int amount)

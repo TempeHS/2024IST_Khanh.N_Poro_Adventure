@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 599358fdaee1e6f49b70cbe093261afa
+guid: 37090f51a38c50a41af8f0f95ad9c10c
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -123,7 +123,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: slime idle_0
+      name: enemy attack_0
       rect:
         serializedVersion: 2
         x: 0
@@ -137,14 +137,35 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9ff41152f96b6ae469e33d4ca5578a2a
-      internalID: -883973170
+      spriteID: 8768adac53b8bce40baa3ca910069bdb
+      internalID: -414832220
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: slime idle_1
+      name: enemy attack_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54eb694decf6234ba6b92ae423c45a4
+      internalID: -314914550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy attack_2
       rect:
         serializedVersion: 2
         x: 0
@@ -158,8 +179,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 49af73fe1944b854aa9452efa97cdd0a
-      internalID: -35051803
+      spriteID: 34f4ef0f37534574d926b79bd02458b8
+      internalID: -854164792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy attack_3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92aad527784ad464193c8ef526198263
+      internalID: -577896227
       vertices: []
       indices: 
       edges: []
@@ -175,8 +217,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      slime idle_0: -883973170
-      slime idle_1: -35051803
+      enemy attack_0: -414832220
+      enemy attack_1: -314914550
+      enemy attack_2: -854164792
+      enemy attack_3: -577896227
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
