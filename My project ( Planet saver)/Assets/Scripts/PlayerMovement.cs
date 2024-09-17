@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using UnityEngine;
 
 
@@ -12,6 +12,7 @@ private float jumpingPower = 16f;
 private bool isFacingRight = true;
 private bool isWallSliding;
 private float wallSlidingSpeed = 2f;
+private float horizontalInput;
 
 
 private bool canDash = true;
@@ -195,5 +196,10 @@ private IEnumerator Dash()
     yield return new WaitForSeconds(dashingCooldown);
     canDash = true;
 }
+ 
+ public bool canAttack()
+    {
+        return horizontalInput == 0 && IsGrounded() && !IsWalled();
+    }
 }
 
