@@ -195,5 +195,9 @@ private IEnumerator Dash()
     yield return new WaitForSeconds(dashingCooldown);
     canDash = true;
 }
+  public bool canAttack()
+    {
+        return horizontal == 0 && IsGrounded() && !IsWalled();
+    }
 }
 
