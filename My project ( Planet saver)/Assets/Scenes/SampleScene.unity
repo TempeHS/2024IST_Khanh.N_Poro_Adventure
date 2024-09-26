@@ -1535,7 +1535,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 443962223}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: FirePoint
   m_TagString: Untagged
   m_Icon: {fileID: 7174288486110832750, guid: 0000000000000000d000000000000000, type: 0}
@@ -1710,10 +1710,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 111471539}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -716.51587, y: 269.97125}
-  m_SizeDelta: {x: 618.71, y: 98.8768}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 289.48413, y: -245.02875}
+  m_SizeDelta: {x: 618.71, y: 98.87683}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &519527995
 MonoBehaviour:
@@ -1753,6 +1753,38 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519527993}
   m_CullTransparentMesh: 1
+--- !u!1 &521001427
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 521001428}
+  m_Layer: 0
+  m_Name: Traps
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &521001428
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 521001427}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1.9173448, y: 1.306256, z: 0.053699695}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 719300771}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &562230954
 GameObject:
   m_ObjectHideFlags: 0
@@ -2567,7 +2599,7 @@ GameObject:
   - component: {fileID: 719300769}
   - component: {fileID: 719300768}
   - component: {fileID: 719300767}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Saw
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2715,12 +2747,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 719300766}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -6.47, y: -0.82, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -8.387344, y: -2.126256, z: -0.053699695}
   m_LocalScale: {x: 5, y: 5, z: 5}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 521001428}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &742449145
 GameObject:
@@ -4473,7 +4505,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1334804051}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Groud Check
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5298,10 +5330,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 111471539}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -716.51587, y: 269.97125}
-  m_SizeDelta: {x: 618.71, y: 98.8768}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 289.48413, y: -245.02875}
+  m_SizeDelta: {x: 618.71, y: 98.87683}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1591015211
 MonoBehaviour:
@@ -5359,7 +5391,7 @@ GameObject:
   - component: {fileID: 1627119825}
   - component: {fileID: 1627119826}
   - component: {fileID: 1627119827}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Player
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -5720,6 +5752,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   startingHealth: 3
+  iFramesDuration: 1
+  numberOfFlashes: 3
 --- !u!1 &1700324142
 GameObject:
   m_ObjectHideFlags: 0
@@ -6403,7 +6437,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2049781806}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: 'Wall check '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6621,7 +6655,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2108465773}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: AttackPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6847,5 +6881,5 @@ SceneRoots:
   - {fileID: 666498209}
   - {fileID: 701934659}
   - {fileID: 2080338118}
-  - {fileID: 719300771}
   - {fileID: 2007725083}
+  - {fileID: 521001428}
