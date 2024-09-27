@@ -1,4 +1,4 @@
-<h1 align="center">2024IST_Kelvin.A_Knights_Light</h1>
+<h1 align="center">2024IST_Khanh.N</h1>
 
 <h2 align="center">Table of Contents</h2>
 
