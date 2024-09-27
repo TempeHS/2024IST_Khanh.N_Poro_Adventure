@@ -6,7 +6,6 @@
 - [Overview](#overview)
 - [User Control Guide](#user-control-guide)
   - [Keyboard and Mouse](#keyboard-and-mouse)
-  - [Controller](#controller)
 - [Script Editing Software](#script-editing-software)
   - [Main Scripts](#main-scripts)
   - [ShaderGraphs](#shadergraphs)
