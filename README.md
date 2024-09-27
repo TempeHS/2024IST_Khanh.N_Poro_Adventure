@@ -17,11 +17,7 @@
 ---
 
 ## Quick Demonstration & Gameplay
-[Gameplay Demo](Uploading unknown_2024.09.27-00.27_clip_1.mp4)
-
-
-
-https://github.com/user-attachments/assets/d8a334ed-648c-4227-a784-6f46587a6b1c
+[Gameplay Demo](https://github.com/user-attachments/assets/d8a334ed-648c-4227-a784-6f46587a6b1c)
 
 
 ---
