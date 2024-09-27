@@ -11,7 +11,6 @@
   - [ShaderGraphs](#shadergraphs)
 - [Asset Showcase](#asset-showcase)
 - [Public Assets Used](#public-assets-used)
-- [Showcase of Works](#showcase-of-works)
 
 ---
 
@@ -100,10 +99,3 @@ Facing goblins, dangerous traps, and treacherous lands, Poro’s bravery and ski
 - [ShaderGraph Sprites](https://assetstore.unity.com/packages/essentials/tutorial-projects/happy-harvest-2d-sample-project-259218)
 
 ---
-
-## Showcase of Works
-
-![Post Processing](https://github.com/user-attachments/assets/6a2f9842-49d7-496c-88e8-5a3adddda8da)
-![Smoke & Sparks](https://github.com/user-attachments/assets/262434d6-8281-4a63-9214-79de870f2ce6)
-![Fire Shader](https://github.com/user-attachments/assets/b67c547f-0fb0-484e-95a5-b6635df883c9)
-![Fog VFX](https://github.com/user-attachments/assets/fb316b80-9147-4a8a-bfb5-8f8b37d856ff)
