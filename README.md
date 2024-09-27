@@ -15,7 +15,11 @@
 ---
 
 ## Quick Demonstration & Gameplay
-[Gameplay Demo](https://github.com/user-attachments/assets/d8a334ed-648c-4227-a784-6f46587a6b1c)
+[Gameplay Demo](https://github.com/user-attachments/assets/c049604f-37ea-4552-b4da-d057b21b61a7)
+
+
+https://github.com/user-attachments/assets/c049604f-37ea-4552-b4da-d057b21b61a7
+
 
 
 ---
