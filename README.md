@@ -70,32 +70,30 @@ Facing goblins, dangerous traps, and treacherous lands, Poro’s bravery and ski
 
 ### Main Scripts
 
-- [Camera Controller](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Scripts/Cameracontroller.cs)
-- [Camera Zoom](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Scripts/CameraZoom.cs)
-- [Enemy Controller](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Scripts/EnemyController.cs)
-- [Falling Platform](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Scripts/FallingPlatform.cs)
-- [Main Menu](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Scripts/MainStory.cs)
-- [Main Story](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Scripts/MainStory.cs)
-- [Monster Damage](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Scripts/MonsterDamage.cs)
-- [Monster Stomp](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Scripts/MonsterStomp.cs)
-- [Player Health](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Scripts/PlayerHealth.cs)
-- [Player Movement (Dash, Jump, Walljump, Wallslide)](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Scripts/PlayerMovement.cs)
-- [Player One-Way Platform](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Scripts/PlayerOneWayPlatform.cs)
-- [Portal](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Scripts/Portal.cs)
-- [Respawn](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Scripts/RespawnScript.cs)
+- [Camera Follow](https://github.com/TempeHS/2024IST_Khanh.N_Poro_Adventure/blob/main/My%20project%20(%20Planet%20saver)/Assets/Scripts/Camera/CameraFollow.cs)
+- [Camera Zoom](https://github.com/TempeHS/2024IST_Khanh.N_Poro_Adventure/blob/main/My%20project%20(%20Planet%20saver)/Assets/Scripts/Camera/CameraZoom.cs))
+- [Enemy Patrol](https://github.com/TempeHS/2024IST_Khanh.N_Poro_Adventure/blob/main/My%20project%20(%20Planet%20saver)/Assets/Scripts/Enemy/EnemyPatrol.cs)
+- [Melee Enemy](https://github.com/TempeHS/2024IST_Khanh.N_Poro_Adventure/blob/main/My%20project%20(%20Planet%20saver)/Assets/Scripts/Enemy/MeleeEnemy.cs)
+- [Health](https://github.com/TempeHS/2024IST_Khanh.N_Poro_Adventure/blob/main/My%20project%20(%20Planet%20saver)/Assets/Scripts/Health/Health.cs)
+- [Health Collectible](https://github.com/TempeHS/2024IST_Khanh.N_Poro_Adventure/blob/main/My%20project%20(%20Planet%20saver)/Assets/Scripts/Health/HealthColllectible.cs)
+- [Health Bar](https://github.com/TempeHS/2024IST_Khanh.N_Poro_Adventure/blob/main/My%20project%20(%20Planet%20saver)/Assets/Scripts/Health/Healthbar.cs)
+- [Player Attack](https://github.com/TempeHS/2024IST_Khanh.N_Poro_Adventure/blob/main/My%20project%20(%20Planet%20saver)/Assets/Scripts/Player/PlayerAttack.cs)
+- [Projectile](https://github.com/TempeHS/2024IST_Khanh.N_Poro_Adventure/blob/main/My%20project%20(%20Planet%20saver)/Assets/Scripts/Player/Projectile.cs)
+- [Player Movement (Dash, Jump, Walljump, Wallslide)](https://github.com/TempeHS/2024IST_Khanh.N_Poro_Adventure/blob/main/My%20project%20(%20Planet%20saver)/Assets/Scripts/Player/PlayerMovement.cs)
+- [Traps (Arrow trap, Enemy Damage, EnemyProjectile, EnemySideway,  Fire trap)](https://github.com/TempeHS/2024IST_Khanh.N_Poro_Adventure/tree/main/My%20project%20(%20Planet%20saver)/Assets/Scripts/Traps)
+- [Main Menus](https://github.com/TempeHS/2024IST_Khanh.N_Poro_Adventure/blob/main/My%20project%20(%20Planet%20saver)/Assets/Scripts/MainMenu.cs)
 
 ---
 
 
 ## Asset Showcase
 
-- [View All Assets](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/tree/main/My%20project/Assets/Sprite)
+- [View All Assets](https://github.com/TempeHS/2024IST_Khanh.N_Poro_Adventure/tree/main/My%20project%20(%20Planet%20saver)/Assets/Sprite)
 
 ---
 
 ## Public Assets Used
 
-- [BGM](https://assetstore.unity.com/packages/audio/music/absolutely-free-music-4883)
-- [ShaderGraph Sprites](https://assetstore.unity.com/packages/essentials/tutorial-projects/happy-harvest-2d-sample-project-259218)
+- [Traps Sprites](https://assetstore.unity.com/packages/2d/characters/pixel-adventure-1-155360)
 
 ---
