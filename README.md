@@ -17,7 +17,7 @@
 ---
 
 ## Quick Demonstration & Gameplay
-[Gameplay Demo](https://github.com/user-attachments/assets/b3b530ec-3bd9-42b2-b68c-0a961a1a589b)
+[Gameplay Demo]https://www.canva.com/design/DAGR6BLLz7k/PhgxaRHIbxxI8y9HcwDIwA/watch?utm_content=DAGR6BLLz7k&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
 
 ---
                     
