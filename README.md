@@ -36,7 +36,6 @@ Additionally, post-processing effects such as bloom, lighting, and shadows impro
 ## Story
 <p align="justify">
 </p>
-Here’s a shorter version of the storyline:
 
 In the kingdom of Kha'ala, a noble warrior named Poro wields a legendary sword that casts fireballs. When a dark curse spreads, turning creatures into monsters and filling the land with deadly traps, Poro must find the ancient Emberstone to lift the curse.
 
