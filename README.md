@@ -71,7 +71,7 @@ Facing goblins, dangerous traps, and treacherous lands, Poro’s bravery and ski
 ### Main Scripts
 
 - [Camera Follow](https://github.com/TempeHS/2024IST_Khanh.N_Poro_Adventure/blob/main/My%20project%20(%20Planet%20saver)/Assets/Scripts/Camera/CameraFollow.cs)
-- [Camera Zoom](https://github.com/TempeHS/2024IST_Khanh.N_Poro_Adventure/blob/main/My%20project%20(%20Planet%20saver)/Assets/Scripts/Camera/CameraZoom.cs))
+- [Camera Zoom](https://github.com/TempeHS/2024IST_Khanh.N_Poro_Adventure/blob/main/My%20project%20(%20Planet%20saver)/Assets/Scripts/Camera/CameraZoom.cs)
 - [Enemy Patrol](https://github.com/TempeHS/2024IST_Khanh.N_Poro_Adventure/blob/main/My%20project%20(%20Planet%20saver)/Assets/Scripts/Enemy/EnemyPatrol.cs)
 - [Melee Enemy](https://github.com/TempeHS/2024IST_Khanh.N_Poro_Adventure/blob/main/My%20project%20(%20Planet%20saver)/Assets/Scripts/Enemy/MeleeEnemy.cs)
 - [Health](https://github.com/TempeHS/2024IST_Khanh.N_Poro_Adventure/blob/main/My%20project%20(%20Planet%20saver)/Assets/Scripts/Health/Health.cs)
