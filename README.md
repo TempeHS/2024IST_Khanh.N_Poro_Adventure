@@ -17,7 +17,8 @@
 ---
 
 ## Quick Demonstration & Gameplay
-[Gameplay Demo]https://www.canva.com/design/DAGR6BLLz7k/PhgxaRHIbxxI8y9HcwDIwA/watch?utm_content=DAGR6BLLz7k&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
+[Gameplay Demo]Uploading unknown_2024.09.27-00.27_clip_1.mp4…)
+
 
 ---
                     
