@@ -18,8 +18,6 @@
 [Gameplay Demo](https://github.com/user-attachments/assets/c049604f-37ea-4552-b4da-d057b21b61a7)
 
 
-https://github.com/user-attachments/assets/c049604f-37ea-4552-b4da-d057b21b61a7
-
 
 
 ---
