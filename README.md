@@ -67,7 +67,7 @@ Facing goblins, dangerous traps, and treacherous lands, Poro’s bravery and ski
 ![Visual Studio](https://github.com/user-attachments/assets/8338d189-acca-46cd-8531-b9a54afc7fd5)
 
 ---
-![ist](https://github.com/user-attachments/assets/8338d189-acca-46cd-8531-b9a54afc7fd5)
+
 
 ### Main Scripts
 
