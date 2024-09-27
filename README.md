@@ -25,17 +25,26 @@
 # General Information
 ## About
 <p align="justify">
-This game was made as a project for an assesment, fitting a used to be criteria of "games for change" which was not really met at all. In the game you play as a knight with a special light which lights the path around him, various challenging obstacles can be found in the game such as falling platforms and goblins, increasing the difficulty and making it less Stale and Boring. The game also has post-processing effects to make it look better with the use of bloom, lighting and shadows, letting light be a visible and viable part of the game, IF i had finished
+This game was created as part of a project for an assessment. It was supposed to fit the theme of "games for change," but it didn’t fully meet that goal. In the game, you play as a noble character with a special sword that can cast fireballs. The game includes various challenging obstacles like falling platforms, fire traps, spike heads, arrow traps, spikes, and goblins. These obstacles make the game more difficult and keep it interesting.
+
+Additionally, post-processing effects such as bloom, lighting, and shadows improve the visual quality. Light plays an important role in the game’s atmosphere. If only I had finished the game...
 </p>
 
 ## Objective
 <p align="justify">
-  The objective of the game is to jump platforms, watch out for traps (Faling platforms), dodge fire around the map and stomp on goblins to destroy them and in order to reach the end.
+  The objective of the game is to go to the end of the game, watch out for traps (Faling platforms, Fire traps, Spike heads, Arrow traps, Spikes), and kill goblins in order to reach the end.
 </p>
 
 ## Story
 <p align="justify">
-</p> In this game you play as a knight whose kingdom has been affected by a great evil causing the land to be filled with evils and a thick smog, Tired of this mess the king has decieded to send you on a mission to _cleanse_ the land, to help you on your journey a mysterious wizard has given you a special lantern giving you the ability to light up the otherwise unlightable darkness.
+</p>
+Here’s a shorter version of the storyline:
+
+In the kingdom of Kha'ala, a noble warrior named Poro wields a legendary sword that casts fireballs. When a dark curse spreads, turning creatures into monsters and filling the land with deadly traps, Poro must find the ancient Emberstone to lift the curse.
+
+Facing goblins, dangerous traps, and treacherous lands, Poro’s bravery and skill are the kingdom’s last hope. Will he find the Emberstone and save Kha'ala in time?
+
+
 ---
 
 ## User Control Guide
@@ -46,18 +55,10 @@ This game was made as a project for an assesment, fitting a used to be criteria 
 | ------------- | ----------------------------------- |
 | **A**         | Move Left                           |
 | **D**         | Move Right                          |
-| **S**         | Move Down on *some* platforms       |
+| **Left Click**| To attack                           |
 | **Left Shift**| Dash                                |
 | **Space**     | Jump                                |
 
-### Controller
-
-| Action                     | Output                              |
-| --------------------------- | ----------------------------------- |
-| **Left Joystick**           | Move Left/Right                     |
-| **Left Joystick Down**      | Move Down on *some* platforms       |
-| **Y**                       | Jump                                |
-| *Dash*                      | *Currently unresponsive*            |
 
 ---
 
@@ -87,14 +88,6 @@ This game was made as a project for an assesment, fitting a used to be criteria 
 
 ---
 
-### ShaderGraphs
-
-- [Fire Shader](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Shaders/FireShader.shadergraph)
-- [Lantern Shader](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Shaders/LanternTrail.shadergraph)
-- [Rolling Fog Shader](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Shaders/RollingFog.shadergraph)
-- [Trail Shader](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Shaders/Trail.shadergraph)
-
----
 
 ## Asset Showcase
 
